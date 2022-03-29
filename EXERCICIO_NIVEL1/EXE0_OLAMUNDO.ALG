@@ -9,6 +9,7 @@ Var
 
 Inicio
 // Seção de Comandos, procedimento, funções, operadores, etc...
-   escreva("Ola Mundo!")
-
+   escreval("##############################")
+   escreval("######    Ola Mundo!    ######")
+   escreval("##############################")
 Fimalgoritmo
